@@ -1,0 +1,5 @@
+click
+colorama
+importlib-metadata
+typing-extensions
+zipp

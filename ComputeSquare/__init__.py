@@ -1,0 +1,1 @@
+from ComputeSquare.square import *
